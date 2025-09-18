@@ -11,6 +11,5 @@ public class Practica_scanner {
         nombre = scanner.nextLine();
         System.out.println("edad: ");
         edad = scanner.nextInt();
-        scanner.close();
     }
 }
